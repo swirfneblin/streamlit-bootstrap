@@ -7,3 +7,5 @@ Using `page_bg_img` variable as argument to Streamlit methods like `st.markdown(
 ```
 streamlit run uber_pickups.py
 ```
+
+![Background image](Screenshot.png "derade image")
